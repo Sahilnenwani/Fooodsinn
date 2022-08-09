@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884135964816",
+    "firebase_url": "https://fyp-baby-care-default-rtdb.firebaseio.com",
+    "project_id": "fyp-baby-care",
+    "storage_bucket": "fyp-baby-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884135964816:android:103d8936bcfaf4880a6815",
+        "android_client_info": {
+          "package_name": "com.example.babycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884135964816-k1j8dnbjam9mj3m5r53fnurl4m3tc9bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrr9VjBvfZPNMpy0bERuuUYj5VFTGKpB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884135964816-k1j8dnbjam9mj3m5r53fnurl4m3tc9bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
